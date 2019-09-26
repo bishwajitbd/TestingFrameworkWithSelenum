@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.91 s - in TestSuite
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 17.806 s <<< FAILURE! - in TestSuite
+orerPageWrongLogin(Amazon.OrderLoginTestWithWorngEmail)  Time elapsed: 4.405 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...> but was:<1...>
+	at Amazon.OrderLoginTestWithWorngEmail.orerPageWrongLogin(OrderLoginTestWithWorngEmail.java:47)
+
+orerPageWrongLogin(Amazon.OrderLoginTestWithWorngEmail)  Time elapsed: 1.663 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...> but was:<1...>
+	at Amazon.OrderLoginTestWithWorngEmail.orerPageWrongLogin(OrderLoginTestWithWorngEmail.java:47)
+
