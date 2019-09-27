@@ -44,7 +44,7 @@ public class OrderLoginTestWithWorngEmail extends base {
 		s.getContinue().click();
 		log.info("5. Click on Continue");
 		
-		Assert.assertEquals(s.getErrorMessage().getText(), "There was a problem");
+		Assert.assertEquals(s.getErrorMessage().getText(), "nnThere was a problem");
 		log.info("6. Validate the alert text message that displayed for wrong password");
 		
 	}
