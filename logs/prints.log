@@ -1,3 +1,5 @@
-19:52:05.954 [main] INFO  Amazon.OrderLoginTestWithWorngEmail - 3. Click on order from top nagigation
-19:52:06.121 [main] INFO  Amazon.OrderLoginTestWithWorngEmail - 4, Enter email information in the email box.
-19:52:06.628 [main] INFO  Amazon.OrderLoginTestWithWorngEmail - 5. Click on Continue
+22:35:32.083 [main] INFO  Amazon.OrderLoginTestWithWorngEmail - 2. Navigated to Home page
+22:35:34.319 [main] INFO  Amazon.OrderLoginTestWithWorngEmail - 3. Click on order from top nagigation
+22:35:34.529 [main] INFO  Amazon.OrderLoginTestWithWorngEmail - 4, Enter email information in the email box.
+22:35:35.284 [main] INFO  Amazon.OrderLoginTestWithWorngEmail - 5. Click on Continue
+22:35:35.317 [main] INFO  Amazon.OrderLoginTestWithWorngEmail - 6. Validate the alert text message that displayed for wrong password

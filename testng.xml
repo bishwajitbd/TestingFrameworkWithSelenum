@@ -4,10 +4,6 @@
 <listeners>
 	<listener class-name="Amazon.Listeners"></listener>
 </listeners>
-
-
-
-
   <test thread-count="5" name="Navigation test">
     <classes>
       <class name="Amazon.NevigationTest"/>
